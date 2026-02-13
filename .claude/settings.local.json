@@ -18,7 +18,8 @@
       "Bash(conda list:*)",
       "Bash(conda activate:*)",
       "Bash(brew install:*)",
-      "Read(//Users/shakir/Downloads/**)"
+      "Read(//Users/shakir/Downloads/**)",
+      "Bash(ls:*)"
     ]
   }
 }
